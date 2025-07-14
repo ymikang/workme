@@ -1,5 +1,4 @@
 #!/bin/bash
-# filepath: /workspaces/workme/git-auto-push.sh
 
 # 현재 날짜와 시간으로 커밋 메시지 생성
 commit_message="Auto commit: $(date '+%Y-%m-%d %H:%M:%S')"
